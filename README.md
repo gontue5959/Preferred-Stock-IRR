@@ -1,5 +1,5 @@
 # Taiwan-Preferred-Stock-IRR(台灣特別股IRR及時報價程式)
-Preferred-Stock-IRR是一個針對於台灣特別股所設計的一個及時計算內部報酬率的程式
+Taiwan-Preferred-Stock-IRR是一個針對於台灣特別股所設計的一個及時計算內部報酬率的程式，方便投資人及時知道以現在的價格買進特別股持有到期(重設日)時的內部報酬率。
 
 ## 參考
 * [XIRR](https://github.com/dkensinger/python/blob/master/XIRR.py)
