@@ -1,11 +1,10 @@
 import twstock as ts
 import pandas as pd
-import numpy as np
 from datetime import date
 from datetime import datetime
 import time
-import msvcrt
 import function_irr
+
 pd.set_option('display.unicode.ambiguous_as_wide', True)
 pd.set_option('display.unicode.east_asian_width', True)
 
@@ -98,5 +97,3 @@ while True:
     # df1['IRR'] = df1['IRR'].astype('object')
 
     print(df1)
-    
-    
