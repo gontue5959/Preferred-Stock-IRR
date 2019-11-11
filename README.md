@@ -1,4 +1,4 @@
-# Taiwan-Preferred-Stock-IRR(台灣特別股內部報酬率)
+# Taiwan-Preferred-Stock-IRR(台灣特別股IRR及時報價程式)
 Preferred-Stock-IRR是一個針對於台灣特別股所設計的一個及時計算內部報酬率的程式
 
 ## 參考
