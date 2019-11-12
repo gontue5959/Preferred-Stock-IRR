@@ -1,5 +1,5 @@
 # Taiwan-Preferred-Stock-IRR(台灣特別股IRR及時報價程式)
-
+Project by [廖芳毅](https://github.com/gontue5959)
 
 ## Table of Contents
 + [About](#about)
