@@ -27,5 +27,5 @@ Taiwan-Preferred-Stock-IRR是一個針對於台灣特別股所設計的即時計
 ```
 > python IRR_Demo.py
 ```
-### 
+### demo
 <img src="https://github.com/gontue5959/Preferred-Stock-IRR/blob/master/Demo/demo.png" width="400"> 
