@@ -1,4 +1,4 @@
- #xirr計算函數 https://github.com/dkensinger/python/blob/master/XIRR.py
+ #xirr計算 參考 https://github.com/dkensinger/python/blob/master/XIRR.py
 def xirr(transactions):
     years = [(ta[0] - transactions[0][0]).days / 365.0 for ta in transactions]
     residual = 1
