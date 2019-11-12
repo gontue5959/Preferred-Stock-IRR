@@ -8,7 +8,7 @@ Project by [廖芳毅](https://github.com/gontue5959)
 + [To run real time demo](#to-run-real-time-demo)
 
 ## About
-Taiwan-Preferred-Stock-IRR是一個針對於台灣特別股所設計的一個及時計算內部報酬率的程式，方便投資人及時知道以現在的價格買進特別股持有到期(重設日)時的內部報酬率。
+Taiwan-Preferred-Stock-IRR是一個針對於台灣特別股所設計的一個即時計算內部報酬率的程式，方便投資人及時知道以現在的價格買進特別股持有到期(重設日)時的內部報酬率。
 
 ## Dependencies
 * twstock 1.3.1
