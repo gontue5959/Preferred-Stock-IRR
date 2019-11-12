@@ -15,8 +15,8 @@ Taiwan-Preferred-Stock-IRR是一個針對於台灣特別股所設計的一個即
 * pandas 0.25.3
 * Python 3.6.5
 ```
->pip install twstock
->pip install pandas
+> pip install twstock
+> pip install pandas
 ```
 
 ## Reference
@@ -24,6 +24,6 @@ Taiwan-Preferred-Stock-IRR是一個針對於台灣特別股所設計的一個即
 
 ## To run real time demo
 ```
->python IRR_Demo.py
+> python IRR_Demo.py
 ```
 <img src="https://github.com/gontue5959/Preferred-Stock-IRR/blob/master/Demo/demo.png" width="400"> 
